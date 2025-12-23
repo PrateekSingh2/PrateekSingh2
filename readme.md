@@ -3,7 +3,7 @@
 </div>
 
 # Hi👋, I'm Prateek Singh 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Java+&+C++%2C+Python%2C+C%2B%2B%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+ML+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Python,+C,+C%2B%2B+Java)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Developer GIF" width="600px">
 </p>
@@ -107,7 +107,7 @@ I enjoy building applications that solve real-world problems, and continually le
       <div style="position: relative;">
         <img src="files/portfolio.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Personal Portfolio</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), jinja2, HTML & CSS</p>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: HTML & CSS</p>
         <a href="https://prateeksingh2.github.io/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a>
@@ -128,3 +128,4 @@ I enjoy building applications that solve real-world problems, and continually le
 
 
 ---
+
