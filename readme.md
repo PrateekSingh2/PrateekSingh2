@@ -5,7 +5,7 @@
 # Hi👋, I'm Prateek Singh 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+ML+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Python,+C,+C%2B%2B+Java)](https://git.io/typing-svg)
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="Developer GIF" width="600px">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer GIF" width="600px">
 </p>
 
 Welcome to my GitHub portfolio! I am a first year B.Tech student in **Artificial Intelligence**, currently pursuing my graduation from Madhav Institute of Technology and Science, Gwalior.
