@@ -3,7 +3,7 @@
 </div>
 
 # Hi👋, I'm Prateek Singh 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+ML+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Python,+C,+C%2B%2B+,Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+ML+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Python,+C,+C%2B%2B,+Java)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer GIF" width="600px">
 </p>
@@ -129,6 +129,7 @@ I enjoy building applications that solve real-world problems, and continually le
 
 
 ---
+
 
 
 
