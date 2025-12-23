@@ -98,7 +98,7 @@ I enjoy building applications that solve real-world problems, and continually le
         <img src="files/vvms.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Virtual Voter Card Making System</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: tKinter (Python) & MySQL</p>
-        <a href="https://github.com/PrateekSingh2/BLO">
+        <a href="https://github.com/PrateekSingh2/BLO" target="_blank">
           <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
         </a>
       </div>
@@ -108,7 +108,7 @@ I enjoy building applications that solve real-world problems, and continually le
         <img src="files/portfolio.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Personal Portfolio</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), jinja2, HTML & CSS</p>
-        <a href="https://prateeksingh2.github.io/">
+        <a href="https://prateeksingh2.github.io/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a>
       </div>
@@ -125,5 +125,6 @@ I enjoy building applications that solve real-world problems, and continually le
 - [JAVA basics - Hackerrank](https://www.hackerrank.com/certificates/iframe/7f4f47533df9)
 - [AI for beginners - HP Life](https://www.life-global.org/certificate/6e997696-934a-43a7-bfb5-2f7c520f8bf8)
 - [Introduction to Machine learning](https://learn.microsoft.com/en-us/users/PrateekSingh-7290/achievements/QSY89DHE)
+
 
 ---
