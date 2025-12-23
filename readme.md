@@ -8,6 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer GIF" width="600px">
 </p>
 
+
 Welcome to my GitHub portfolio! I am a first year B.Tech student in **Artificial Intelligence**, currently pursuing my graduation from Madhav Institute of Technology and Science, Gwalior.
 
 I enjoy building applications that solve real-world problems, and continually learning new technologies.
@@ -128,5 +129,6 @@ I enjoy building applications that solve real-world problems, and continually le
 
 
 ---
+
 
 
