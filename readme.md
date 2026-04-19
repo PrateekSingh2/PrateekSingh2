@@ -135,7 +135,7 @@ growth!
 </p>
 
 <h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="45" alt="Data" />
   HeatMap
 </h2>
 
@@ -143,6 +143,7 @@ growth!
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekSingh2&hide_progress=true" />
 </picture>
 
 <h2>
