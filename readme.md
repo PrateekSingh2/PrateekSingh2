@@ -91,7 +91,7 @@ growth!
 <tr>
   <td><strong>Tools & Tech</strong></td>
   <td>
-    <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark">
+    <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark">
   </td>
 </tr>
 
