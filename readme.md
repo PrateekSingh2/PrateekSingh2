@@ -51,11 +51,11 @@ growth!
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-4%20Star%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Div%204%20(1311)-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-Div%204%20(1388)-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
