@@ -134,17 +134,16 @@ growth!
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-04-19T07-54-48" alt="Dev Quote" />
 </p>
 
-
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
-  Let’s Connect
+  HeatMap
 </h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
