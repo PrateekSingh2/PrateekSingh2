@@ -84,7 +84,7 @@ growth!
 <tr>
   <td><strong>Backend & Databases</strong></td>
   <td>
-    <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite&theme=dark">
+    <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark">
   </td>
 </tr>
 
