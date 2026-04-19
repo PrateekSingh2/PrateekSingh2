@@ -1,137 +1,181 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div id="header" align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
+    width="400" />
 </div>
-
-# Hi👋, I'm Prateek Singh 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+ML+Enthusiast;Aspiring+Software+Engineer;JAVA-DSA+Problem+Solver;Proficient+in+Python,+C,+C%2B%2B,+Java)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer GIF" width="600px">
-</p>
-
-
-Welcome to my GitHub portfolio! I am a first year B.Tech student in **Artificial Intelligence**, currently pursuing my graduation from Madhav Institute of Technology and Science, Gwalior.
-
-I enjoy building applications that solve real-world problems, and continually learning new technologies.
-
----
-
-### 👨‍💻 What I have done:
-
-- **GUI Windows Application**: Developed windows application utilizing **Python(tKinter)** for frontend and **MySQL** for the database.
-- **Database Management**: Experience with SQL databases, including **MySQL** facilitating effective data management.
-- **Frontend Technologies**: Skilled in creating responsive user interfaces with **HTML5**, **CSS3**.
-- **Data Analysis & Visualization**: Proficient in data analysis and visualization using **Numpy**, **Matplotlib**.
-- **Version Control**: Utilization of **Git** and **GitHub** for effective version control and collaboration.
-
-### 🌱 What I am doing:
-
-- I am practicing DSA in JAVA right now.
-- Working on building projects and hackathons.
-
-### 🚀 What I will do:
-
-- Continue solving questions daily atleast one on leetcode for consistency.
-- Invest my time in learning to build AI & ML projects.
-- Explore web technologies and enhance my skills in web development.
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrateekSingh2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrateekSingh2&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekSingh2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔗 Contact and Social Media:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajawatprateeksingh" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/PrateekSingh2" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-
-  </a>
-  <a href="https://leetcode.com/u/prateek_singh7/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=v.rajawatprateeksingh@gmail.com&su=Inquiry%20from%20Portfolio&body=Hello%20there,%20I%20saw%20your%20site..." style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## 🛠️ Skills:
-
-### Languages:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="cursor: pointer;">
-</p>
-
-### Technologies & Tools:
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge" alt="Matplotlib" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/Git/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git/GitHub" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge" alt="Numpy" style="cursor: pointer;">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" style="cursor: pointer;">
-
-</p>
-
----
-
-## 📂 Projects:
 
 <div align="center">
-
-<table style="padding: 20px; border-spacing: 30px;">
-  <tr>
-  <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="files/vvms.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
-        <strong>Virtual Voter Card Making System</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: tKinter (Python) & MySQL</p>
-        <a href="https://github.com/PrateekSingh2/BLO" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="files/portfolio.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
-        <strong>Personal Portfolio</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: HTML & CSS</p>
-        <a href="https://prateeksingh2.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-      </div>
-    </td>
-</tr>
-</table>
-
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3500&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hii..+I'm+Prateek;Welcome+to+my+Github+profile!;Passionate+about+AI+%26+ML!;Building+AlgoLib+%26+XYNC!;Let's+code+together!;"
+            alt="Typing SVG" />
+    </h1>
 </div>
 
----
 
-## 🎓 Certificates:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-- [JAVA basics - Hackerrank](https://www.hackerrank.com/certificates/iframe/7f4f47533df9)
-- [AI for beginners - HP Life](https://www.life-global.org/certificate/6e997696-934a-43a7-bfb5-2f7c520f8bf8)
-- [Introduction to Machine learning](https://learn.microsoft.com/en-us/users/PrateekSingh-7290/achievements/QSY89DHE)
+🌿 Hello, I'm Prateek Singh, a 1st-year B.Tech student in Artificial Intelligence at MITS Gwalior.
+<br><br>
+"✨ With a passion for full-stack web development 🌐 and competitive programming as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA) and building scalable platforms."
+📊.
+<br><br>
+🎵 I enjoy listening to music while I code, documenting my learning journey, and driving projects forward. You're invited to join me on
+<a href="https://www.linkedin.com/in/rajawatprateeksingh" target="new"> LinkedIn</a> for this exciting path of exploration and
+growth!
+<br><br>
+📩 Get in touch:
+<a href="mailto:prateeksinghrajawat2006@gmail.com">prateeksinghrajawat2006@gmail.com</a>
+<br>
 
 
----
+
+<br>
+
+<h2>Projects: </h2>
+
+
+| Project Name | Description |
+| ------------ | ----------- |
+| **AlgoLib** | Centralized educational library for algorithm visualization and algorithmic mastery. |
+| **XYNC** | Responsive full-stack project management dashboard for streamlining team workflows. |
+| [Virtual Voter Card Making System](https://github.com/PrateekSingh2/BLO) | Secure desktop application enabling biometric uploads and credential validation. |
+| **DSA Tracker** | Custom platform to monitor LeetCode problem-solving progress and revision schedules. |
+| [Personal Portfolio](https://prateeksingh2.github.io/) | My personal portfolio website built with HTML & CSS. |
+
+<br>
+<h2 align="left">💻 Coding Profiles</h2>
+
+
+<p align="left">
+  <a href="https://leetcode.com/u/prateek_singh7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-4%20Star%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Div%204%20(1311)-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="38">
+  Languages, Tools & Technologies
+</h2>
+
+<table align="center">
+
+<tr>
+  <td><strong>Programming Languages</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,c,ts&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Frontend Development</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Backend & Databases</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Tools & Tech</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark">
+  </td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🎓 Certifications
+
+* **Machine Learning Operations (MLOps) with Vertex AI** - Google Arcade
+* **Introduction to Machine Learning** - Microsoft Learn
+* **JAVA Problem Solving Basics** - HackerRank
+* **AI for Beginners** - HP Life
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+
+## 📊 My Stats :
+<br>
+<div  width="50%" align ="center">
+<p>
+    <a >
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prateek Singh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekSingh2&theme=dark&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>
+</div>
+<br>
+
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+[![Prateek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekSingh2&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/PrateekSingh2)
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Daily Dev Quote
+
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-04-19T07-54-48" alt="Dev Quote" />
+</p>
 
 
 
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
+  Let’s Connect
+</h2>
+<div align="center">
+<p align="center">
+  I’m always open to meaningful conversations, collaborations, and opportunities.<br>
+  Whether it’s open-source, internships, or building impactful tech - feel free to reach out.
+</p>
+<pre><code>
+┌──────────────────────────────────────────────┐
+│  💡 Curious mind, builder by passion         │
+│  🤝 Open to collaboration & learning         │
+│  🚀 Let’s create something impactful         │
+└──────────────────────────────────────────────┘
+</code></pre>
+</div>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajawatprateeksingh" target="_blank" title="Linkedin">
+    <img height="42" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:prateeksinghrajawat2006@gmail.com" title="Email">
+    <img height="42" src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="https://prateeksingh2.github.io/" target="_blank" title="Portfolio">
+    <img height="42" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/PrateekSingh2" target="_blank" title="Github">
+    <img height="42" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrateekSingh2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.."
+            alt="Typing SVG" />
+    </h1>
+</div>
