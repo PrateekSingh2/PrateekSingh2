@@ -42,7 +42,7 @@ growth!
 <br>
 <h2 align="left">💻 Coding Profiles</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://www.codechef.com/users/nice_trail_87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nice_trail_87" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/prateeksinghraj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateeksinghraj2" height="50" width="60" /></a>
 <a href="https://codeforces.com/profile/rajawatprateeksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajawatprateeksingh" height="50" width="60" /></a>
