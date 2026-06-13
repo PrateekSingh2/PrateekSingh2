@@ -35,11 +35,9 @@ growth!
 
 | Project Name | Description |
 | ------------ | ----------- |
-| **AlgoLib** | Centralized educational library for algorithm visualization and algorithmic mastery. |
-| **XYNC** | Responsive full-stack project management dashboard for streamlining team workflows. |
+| [AlgoLib](https://algolib.netlify.app) | Algorithm library, Data Structures visualizer, live contests, quizzes and online compiler  |
 | [Virtual Voter Card Making System](https://github.com/PrateekSingh2/BLO) | Secure desktop application enabling biometric uploads and credential validation. |
-| **DSA Tracker** | Custom platform to monitor LeetCode problem-solving progress and revision schedules. |
-| [Personal Portfolio](https://prateeksingh2.github.io/) | My personal portfolio website built with HTML & CSS. |
+| [Status page](https://prateeksingh2.github.io/) | No third party integration, in-house status page for website built with HTML, CSS & JS. |
 
 <br>
 <h2 align="left">💻 Coding Profiles</h2>
