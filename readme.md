@@ -145,11 +145,11 @@ growth!
   Whether it’s open-source, internships, or building impactful tech - feel free to reach out.
 </p>
 <pre><code>
-┌──────────────────────────────────────────────┐
-│  💡 Curious mind, builder by passion         │
-│  🤝 Open to collaboration & learning         │
-│  🚀 Let’s create something impactful         │
-└──────────────────────────────────────────────┘
+                                            ┌──────────────────────────────────────────────┐
+                                            │  💡 Curious mind, builder by passion         │
+                                            │  🤝 Open to collaboration & learning         │
+                                            │  🚀 Let’s create something impactful         │
+                                            └──────────────────────────────────────────────┘
 </code></pre>
 </div>
 <br>
