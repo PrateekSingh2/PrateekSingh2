@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-🌿 Hello, I'm Prateek Singh, a 1st-year B.Tech student in Artificial Intelligence at MITS Gwalior.
+🌿 Hello, I'm Prateek Singh, a 1st-year B.Tech student in Artificial Intelligence'29 at MITS Gwalior.
 <br><br>
 "✨ With a passion for full-stack web development 🌐 and competitive programming as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA) and building scalable platforms."
 📊.
