@@ -43,22 +43,12 @@ growth!
 <h2 align="left">💻 Coding Profiles</h2>
 
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/prateek_singh7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/RajawatPrateekSingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajawatprateeksingh" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Div%204%20(1388)-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+<a href="https://www.codechef.com/users/nice_trail_87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nice_trail_87" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prateeksinghraj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateeksinghraj2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rajawatprateeksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajawatprateeksingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prateek_singh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek_singh7" height="30" width="40" /></a>
 </p>
 
 
