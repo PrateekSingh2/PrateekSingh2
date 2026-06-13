@@ -53,7 +53,7 @@ growth!
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/RajawatPrateekSingh" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajawatprateeksingh" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/" target="_blank">
