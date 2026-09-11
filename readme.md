@@ -1,712 +1,605 @@
 <div align="center">
-  <!-- TOP GRADIENT RIBBON -->
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="4" />
 
-  <!-- MEGA HERO BANNER (CAPSULE RENDER) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:111b27,70:00e5ff,100:00ffcc&height=280&section=header&text=PRATEEK%20%E2%80%A2%20SINGH&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=FOUNDER%20%40%20ALGOLIB%20%7C%20AI%20ENGINEER%20%7C%20COMPETITIVE%20PROGRAMMER&descSize=19&descAlignY=62&descAlign=50" width="100%" alt="Prateek Singh Hero Banner" />
+<!-- ░░░░░ NEON TOP RIBBON ░░░░░ -->
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" />
 
-  <!-- ANIMATED TYPING HERO SUBTITLE -->
-  <a href="https://github.com/PrateekSingh2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=AI+Engineer;Competitive+Programmer;Founder+%40+AlgoLib;Full+Stack+Developer;Building+Products;Learning+Something+New+Everyday..." alt="Animated Typing Header" />
-  </a>
+<!-- ░░░░░ MEGA HERO WAVING BANNER ░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0d1f2d,55:003833,85:00c9a7,100:00FFCC&height=310&section=header&text=PRATEEK%20SINGH&fontSize=80&fontAlignY=37&fontColor=FFFFFF&desc=%E2%97%88%20FOUNDER%20%40%20ALGOLIB%20%E2%97%88%20AI%20ENGINEER%20%E2%97%88%20COMPETITIVE%20PROGRAMMER%20%E2%97%88&descSize=17&descAlignY=63&descAlign=50&animation=fadeIn" width="100%" alt="Prateek Singh — AI Engineer & Founder" />
 
-  <br>
+<!-- ░░░░░ ANIMATED TYPING SVG ░░░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=%E2%9A%A1+sudo+systemctl+start+NEURAL_ENGINE.service;%F0%9F%9A%80+Founder+%40+AlgoLib+%7C+CS+Education+Reimagined;%F0%9F%A4%96+AI+Engineer+%7C+Deep+Learning+%26+MLOps;%E2%9A%94%EF%B8%8F+Competitive+Programmer+%7C+DSA+%26+Algorithms;%F0%9F%8C%90+Full-Stack+Developer+%7C+React+%26+Node.js+%26+Next.js;%F0%9F%94%A5+Building+in+Public+%7C+First+Principles+Every+Day" alt="Animated Typing Banner" />
 
-  <!-- TELEMETRY BADGES -->
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <a href="#terminal-os">
-          <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFCC?style=for-the-badge&logo=statuspal&logoColor=0d1117&labelColor=0d1117&color=00FFCC" alt="System Online" />
-        </a>
-        <a href="https://github.com/PrateekSingh2">
-          <img src="https://img.shields.io/badge/SIGNAL-5G_SECURE-00FFCC?style=for-the-badge&logo=wireguard&logoColor=00FFCC&labelColor=0d1117&color=30363d" alt="Signal 5G" />
-        </a>
-        <a href="https://prateeksingh2.github.io/">
-          <img src="https://img.shields.io/badge/LATENCY-12ms-00FFCC?style=for-the-badge&logo=speedtest&logoColor=00FFCC&labelColor=0d1117&color=30363d" alt="Latency" />
-        </a>
-        <a href="mailto:prateeksinghrajawat2006@gmail.com">
-          <img src="https://img.shields.io/badge/ENCRYPTION-RSA_4096-7C3AED?style=for-the-badge&logo=auth0&logoColor=7C3AED&labelColor=0d1117&color=30363d" alt="Encryption" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<br/><br/>
+
+<!-- ░░░░░ LIVE STATUS PILLS ░░░░░ -->
+<img src="https://img.shields.io/badge/%E2%97%89_SYSTEM-ONLINE-00FFCC?style=for-the-badge&labelColor=0d1117" alt="System Online" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/BUILDING-AlgoLib_v3.1-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Building" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Shipping_Daily-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Status" />
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 2: CYBERPUNK INTRO CARD (TERMINAL OS)                             -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                    SOCIAL COMMAND CENTER                                 -->
+<!-- ======================================================================= -->
 
-<div align="center" id="terminal-os">
-<pre style="background-color:#0d1117; color:#c9d1d9; border: 1px solid #30363d; border-radius: 12px; font-family: 'Fira Code', 'Courier New', monospace; box-shadow: 0 0 30px rgba(0, 255, 204, 0.12); text-align: left; padding: 18px 24px; line-height: 1.45; overflow-x: auto; max-width: 920px;">
-<span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>  <span style="color: #00FFCC; font-weight: bold;">prateek@dev-os</span>:<span style="color: #7C3AED;">~</span>$ ./init_profile.sh --live                                <span style="color: #00FFCC; font-weight: bold;">● SIGNAL: SYNCHRONIZED</span>
-╭──────────────────────────────────────────────────────────────────────────────────────────╮
-│                                   │                                                      │
-│             .-+######+-.          │  <span style="color: #00FFCC; font-weight: bold;">IDENTITY_CORE</span>                                       │
-│          /################\       │  <span style="color: #8b949e;">--------------------------------------------------</span>  │
-│        /####################\     │  <span style="color: #00FFCC;">▸ Name</span>            : <b>Prateek Singh</b>                   │
-│       |######################|    │  <span style="color: #00FFCC;">▸ Role</span>            : <b>Founder @ AlgoLib | AI Dev</b>      │
-│       |#%#%#%#%####%#%#%#%#%#|    │  <span style="color: #00FFCC;">▸ Education</span>       : <b>B.Tech Artificial Intelligence</b>   │
-│       |######################|    │  <span style="color: #00FFCC;">▸ Location</span>        : <b>Gwalior, India 🇮🇳</b>               │
-│        \####################/     │  <span style="color: #00FFCC;">▸ Status</span>          : <b>🟢 Operational & Shipping Code</b>  │
-│         \##################/      │                                                      │
-│           |##############|        │  <span style="color: #7C3AED; font-weight: bold;">MISSION_DIRECTIVES</span>                                 │
-│           .-+##########+-.        │  <span style="color: #8b949e;">--------------------------------------------------</span>  │
-│         -##################-      │  <span style="color: #00FFCC;">▸ Current Mission</span> : <b>Empowering 10k+ Devs via AlgoLib</b> │
-│       /######################\    │  <span style="color: #00FFCC;">▸ Current Focus</span>   : <b>High-Scale Distributed Systems</b>  │
-│      /########################\   │  <span style="color: #00FFCC;">▸ Active Build</span>    : <b>AlgoLib v3.1 & Xync Core</b>        │
-│                                   │  <span style="color: #00FFCC;">▸ Contact</span>         : <b>prateeksinghrajawat2006@gmail.com</b> │
-│                                   │                                                      │
-╰───────────────────────────────────┴──────────────────────────────────────────────────────╯
-<span style="color: #8b949e;">[SYS.INFO]</span> Host: Quantum-Node-01 • Kernel: 6.8.9-zen-dev • Shell: zsh 5.9 • Uplink: 10 Gbps Ultra-Low Latency
+<div align="center">
+
+### `>> /sys/social_dispatch.sh --connect-all`
+
+<br/>
+
+<a href="https://github.com/PrateekSingh2" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-PrateekSingh2-00FFCC?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0d1117" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rajawatprateeksingh" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-00FFCC?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=0d1117" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://prateeksingh2.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Live_Site-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=00FFCC&labelColor=0d1117" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:prateeksinghrajawat2006@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Dispatch-00FFCC?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0d1117" alt="Email" />
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/rajawatprateeksingh" target="_blank">
+  <img src="https://img.shields.io/badge/CODEFORCES-Contest_Fighter-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces" />
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/prateek_singh7" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/nice_trail_87" target="_blank">
+  <img src="https://img.shields.io/badge/CODECHEF-Star_Coder-00FFCC?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/prateeksinghraj2" target="_blank">
+  <img src="https://img.shields.io/badge/HACKERRANK-5%E2%98%85_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117" alt="HackerRank" />
+</a>
+
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
+
+<!-- ======================================================================= -->
+<!--                 CYBERPUNK TERMINAL IDENTITY CARD                        -->
+<!-- ======================================================================= -->
+
+<div align="center">
+
+### `>> prateek@dev-os:~$ cat /etc/identity.conf --live`
+
+</div>
+
+<pre>
+  ● ● ●   prateek@dev-os:~$ ./profile.sh --signal LIVE                    [SYS: SYNCHRONIZED]
+ ╭─────────────────────────────────────────────────────────────────────────────────────────╮
+ │                                        │                                                │
+ │   ██████╗ ██████╗  █████╗ ████████╗   │  IDENTITY_CORE                                 │
+ │   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝   │  ─────────────────────────────────────────     │
+ │   ██████╔╝██████╔╝███████║   ██║      │  ▸ Name       : Prateek Singh                  │
+ │   ██╔═══╝ ██╔══██╗██╔══██║   ██║      │  ▸ Role       : Founder @ AlgoLib | AI Eng     │
+ │   ██║     ██║  ██║██║  ██║   ██║      │  ▸ Education  : B.Tech AI — MITS Gwalior       │
+ │   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      │  ▸ Location   : Gwalior, India                 │
+ │                                        │  ▸ Status     : 🟢 Operational, Shipping Daily  │
+ │                                        │                                                │
+ │                                        │  MISSION_DIRECTIVES                            │
+ │                                        │  ─────────────────────────────────────────     │
+ │                                        │  ▸ Flagship   : AlgoLib v3.1 Ecosystem         │
+ │                                        │  ▸ Pipeline   : Xync Core + FormsForge AI      │
+ │                                        │  ▸ Focus      : Distributed Systems & LLMs     │
+ │                                        │  ▸ CP Goal    : 1800+ Codeforces Rating        │
+ │                                        │  ▸ Signal     : prateeksinghrajawat2006@gmail  │
+ │                                        │                                                │
+ ╰────────────────────────────────────────┴────────────────────────────────────────────────╯
+  [SYS.TELEMETRY] Kernel: 6.8.9-ai-dev | Mode: HYPER-FOCUS | Uplink: 10Gbps | Uptime: 100%
 </pre>
-</div>
 
-<br>
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 3: SOCIAL COMMAND CENTER                                          -->
-<!-- ========================================================================= -->
-
-<div align="center">
-  <a href="https://github.com/PrateekSingh2" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rajawatprateeksingh" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://prateeksingh2.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:prateeksinghrajawat2006@gmail.com">
-    <img src="https://img.shields.io/badge/DISPATCH_EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="Email" />
-  </a>
-  <br><br>
-  <a href="https://codeforces.com/profile/rajawatprateeksingh" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-0d1117?style=for-the-badge&logo=codeforces&logoColor=00FFCC&labelColor=0d1117&color=7C3AED" alt="Codeforces" />
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/prateek_singh7" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117&color=7C3AED" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/nice_trail_87" target="_blank">
-    <img src="https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=00FFCC&labelColor=0d1117&color=7C3AED" alt="CodeChef" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/prateeksinghraj2" target="_blank">
-    <img src="https://img.shields.io/badge/HACKERRANK-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117&color=7C3AED" alt="HackerRank" />
-  </a>
-</div>
-
-<br>
-
-<!-- ========================================================================= -->
-<!-- SECTION 4: DEVELOPER GIF VISUALIZER                                       -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                   DEVELOPER SHOWCASE GIF                                -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
-  <br><br>
-  <a href="https://algolib.netlify.app" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="920" alt="Cyberpunk Neural Coding Terminal" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(0, 255, 204, 0.1);" />
-  </a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Cyberpunk Neural Coding Terminal" />
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 5: LIVE DASHBOARD TELEMETRY                                       -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                   LIVE TELEMETRY DASHBOARD                              -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">⚡</span> /metrics/telemetry_dashboard.sys
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="8" width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=PrateekSingh2&show_icons=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&border_color=30363d&border_radius=10&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekSingh2&background=0d1117&ring=00FFCC&fire=00FFCC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFCC&sideLabels=8b949e&dates=8b949e&border=30363d&border_radius=10" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekSingh2&layout=compact&bg_color=0d1117&title_color=00FFCC&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" width="100%" />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <!-- SECTION 6: GITHUB TROPHY WALL -->
-        <img src="https://github-profile-trophy.vercel.app/?username=PrateekSingh2&theme=radical&no-frame=false&no-bg=true&margin_w=4&row=2&column=3" alt="GitHub Trophies" width="100%" />
-      </td>
-    </tr>
-  </table>
+### `>> /metrics/live_telemetry.sys --realtime`
 
-  <br>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekSingh2&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=false&border_color=30363d&border_radius=10" alt="Activity Graph" width="100%" />
+<table border="0" cellpadding="4" cellspacing="6" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=PrateekSingh2&show_icons=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&border_color=30363d&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekSingh2&background=0d1117&ring=00FFCC&fire=00FFCC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFCC&sideLabels=8b949e&dates=8b949e&border=30363d&border_radius=10" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekSingh2&layout=compact&bg_color=0d1117&title_color=00FFCC&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=8" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=PrateekSingh2&theme=radical&no-frame=false&no-bg=true&margin_w=4&row=2&column=3" alt="GitHub Trophies" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekSingh2&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=false&border_color=30363d&border_radius=10&custom_title=Prateek%27s%20Contribution%20Matrix" alt="Activity Graph" width="100%" />
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 7: BENTO GRID DASHBOARD                                           -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                      BENTO GRID DASHBOARD                               -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🍱</span> /bento/architecture_matrix.json
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="14" cellspacing="10" width="100%">
-    <tr>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">🧠 ABOUT ME</h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Undergrad pursuing <b>B.Tech in Artificial Intelligence</b> in India. Obsessed with high-throughput backend architecture, low-latency compilers, and machine learning models that solve tangible engineering bottlenecks.
-        </p>
-        <span style="color: #00FFCC; font-family: monospace; font-size: 11px;">● ACADEMIA: Deep Learning & Systems</span>
-      </td>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">🎯 CURRENT FOCUS</h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Scaling <b>AlgoLib v3.1</b> into the premier platform for algorithmic visualization. Fine-tuning neural network inference pipelines and grinding high-rating contest strategies on Codeforces.
-        </p>
-        <span style="color: #7C3AED; font-family: monospace; font-size: 11px;">● TARGET: 1800+ Rating & v3.1 Rollout</span>
-      </td>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">🚀 CURRENTLY LEARNING</h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Large-scale distributed systems consensus (Raft, Paxos), Transformer quantization techniques, MLOps orchestration with Vertex AI, and advanced graph-theoretic algorithms.
-        </p>
-        <span style="color: #00E5FF; font-family: monospace; font-size: 11px;">● DOMAIN: Distributed AI Infrastructure</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">⚡ FUN FACTS</h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Converts caffeine into asymptotic <code>O(1)</code> solutions. Has an unhealthy obsession with dark terminal themes, micro-benchmarking algorithms in C++, and clean pixel-perfect interfaces.
-        </p>
-        <span style="color: #00FFCC; font-family: monospace; font-size: 11px;">● ENVIRONMENT: Linux & Neovim/VSCode</span>
-      </td>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">🛡️ MISSION</h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          To democratize deep computer science education through interactive sandboxes, empowering thousands of budding developers to master complex algorithms with joy and clarity.
-        </p>
-        <span style="color: #7C3AED; font-family: monospace; font-size: 11px;">● CREED: Founder Mentality & Public Impact</span>
-      </td>
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; margin-top: 0; font-family: monospace;">🔮 PHILOSOPHY</h3>
-        <blockquote style="color: #8b949e; border-left: 3px solid #00FFCC; padding-left: 10px; margin: 4px 0; font-style: italic; font-size: 13px;">
-          "Simplicity is prerequisite for reliability. Build fast, profile ruthlessly, and engineer software that stands the test of time."
-        </blockquote>
-        <span style="color: #00FFCC; font-family: monospace; font-size: 11px;">● ETHOS: First Principles Thinking</span>
-      </td>
-    </tr>
-  </table>
+### `>> /bento/architect_matrix.json --render`
+
+<br/>
+
+<table border="0" cellpadding="14" cellspacing="8" width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%F0%9F%A7%A0_ABOUT_ME-IDENTITY_CORE-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left">Undergrad in <b>B.Tech Artificial Intelligence</b> at MITS Gwalior. Obsessed with high-throughput backend systems, neural networks, and interactive platforms that make complex math feel like play. I ship code every single day.</p>
+      <img src="https://img.shields.io/badge/FOCUS-Deep_Learning_%26_Systems-00FFCC?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AF_CURRENT-MISSION_ACTIVE-7C3AED?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left">Scaling <b>AlgoLib v3.1</b> into a world-class algorithm learning platform. Refining <b>FormsForge</b> AI workflows. Architecting <b>Xync Core</b> for project orchestration. Daily Codeforces contest grinding.</p>
+      <img src="https://img.shields.io/badge/TARGET-1800%2B_Rating_%26_v3.1_Launch-7C3AED?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%F0%9F%9A%80_LEARNING-KNOWLEDGE_QUEUE-00E5FF?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left">Distributed consensus (Raft, Paxos). Transformer quantization. MLOps with Vertex AI. Advanced competitive programming: Segment Trees, Network Flow, Heavy-Light Decomposition, String Algorithms.</p>
+      <img src="https://img.shields.io/badge/DOMAIN-Distributed_AI_Infrastructure-00E5FF?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%E2%9A%A1_FUN_FACTS-NEURAL_DUMP-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left">Converts caffeine into asymptotic <code>O(1)</code> solutions. Obsessed with dark terminal UIs, C++ micro-benchmarking, and pixel-perfect interfaces. Believes the cleanest code needs no comments.</p>
+      <img src="https://img.shields.io/badge/ENV-Linux_%26_Neovim_%2F_VSCode-00FFCC?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_MISSION-CORE_OBJECTIVE-7C3AED?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left">Democratize deep CS education via interactive algorithm sandboxes. Empower 10,000+ developers globally to master complex algorithms with clarity and joy through <b>AlgoLib's</b> visual environment.</p>
+      <img src="https://img.shields.io/badge/CREED-Founder_Mentality_%26_Impact-7C3AED?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/%F0%9F%94%AE_PHILOSOPHY-ENGINEERING_ETHOS-00E5FF?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <p align="left"><i>"Simplicity is the prerequisite for reliability. Build fast, profile ruthlessly, and engineer software that outlives the trend cycle."</i></p>
+      <img src="https://img.shields.io/badge/ETHOS-First_Principles_Thinking-00E5FF?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 8: COMPETITIVE PROGRAMMING COMMAND CENTER                         -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--              COMPETITIVE PROGRAMMING COMMAND CENTER                     -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">⚔️</span> /bin/competitive_programming --radar
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="14" cellspacing="8" width="100%">
-    <tr>
-      <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <a href="https://codeforces.com/profile/rajawatprateeksingh" target="_blank">
-          <img src="https://img.shields.io/badge/CODEFORCES-0d1117?style=for-the-badge&logo=codeforces&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="Codeforces" />
-        </a>
-        <br><br>
-        <b style="color: #c9d1d9; font-family: monospace;">@rajawatprateeksingh</b>
-        <br><br>
-        <span style="color: #00FFCC; font-size: 13px; font-weight: bold;">Contest Fighter</span>
-        <p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Graphs • DP • Math • Binary Search</p>
-      </td>
-      <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <a href="https://www.leetcode.com/prateek_singh7" target="_blank">
-          <img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117&color=FFA116" alt="LeetCode" />
-        </a>
-        <br><br>
-        <b style="color: #c9d1d9; font-family: monospace;">@prateek_singh7</b>
-        <br><br>
-        <span style="color: #FFA116; font-size: 13px; font-weight: bold;">500+ Solved</span>
-        <p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Daily Streak • Trees • Heaps • Trie</p>
-      </td>
-      <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <a href="https://www.codechef.com/users/nice_trail_87" target="_blank">
-          <img src="https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=00FFCC&labelColor=0d1117&color=00FFCC" alt="CodeChef" />
-        </a>
-        <br><br>
-        <b style="color: #c9d1d9; font-family: monospace;">@nice_trail_87</b>
-        <br><br>
-        <span style="color: #00FFCC; font-size: 13px; font-weight: bold;">Star Coder</span>
-        <p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Rated Long & Starters Contests</p>
-      </td>
-      <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <a href="https://www.hackerrank.com/prateeksinghraj2" target="_blank">
-          <img src="https://img.shields.io/badge/HACKERRANK-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117&color=2EC866" alt="HackerRank" />
-        </a>
-        <br><br>
-        <b style="color: #c9d1d9; font-family: monospace;">@prateeksinghraj2</b>
-        <br><br>
-        <span style="color: #2EC866; font-size: 13px; font-weight: bold;">5-Star Gold</span>
-        <p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Java & Problem Solving Verified</p>
-      </td>
-    </tr>
-  </table>
+### `>> /bin/competitive_programming --battle-mode --radar`
+
+<br/>
+
+<table border="0" cellpadding="14" cellspacing="8" width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://codeforces.com/profile/rajawatprateeksingh" target="_blank">
+        <img src="https://img.shields.io/badge/CODEFORCES-Arena-00FFCC?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" width="200" />
+      </a><br/><br/>
+      <b>@rajawatprateeksingh</b><br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8F%85_Contest_Fighter-Rated-00FFCC?style=flat-square&labelColor=0d1117" /><br/>
+      <img src="https://img.shields.io/badge/Graphs_%7C_DP_%7C_Math-Expert-30363d?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://www.leetcode.com/prateek_singh7" target="_blank">
+        <img src="https://img.shields.io/badge/LEETCODE-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" width="200" />
+      </a><br/><br/>
+      <b>@prateek_singh7</b><br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%94%A5_500%2B_Solved-Daily_Streak-FFA116?style=flat-square&labelColor=0d1117" /><br/>
+      <img src="https://img.shields.io/badge/Trees_%7C_Heaps_%7C_Trie-Active-30363d?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://www.codechef.com/users/nice_trail_87" target="_blank">
+        <img src="https://img.shields.io/badge/CODECHEF-Star-00FFCC?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" width="200" />
+      </a><br/><br/>
+      <b>@nice_trail_87</b><br/><br/>
+      <img src="https://img.shields.io/badge/%E2%AD%90_Star_Coder-Rated-00FFCC?style=flat-square&labelColor=0d1117" /><br/>
+      <img src="https://img.shields.io/badge/Speed_%7C_Greedy_%7C_NT-Long_Contests-30363d?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://www.hackerrank.com/prateeksinghraj2" target="_blank">
+        <img src="https://img.shields.io/badge/HACKERRANK-5%E2%98%85_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117" width="200" />
+      </a><br/><br/>
+      <b>@prateeksinghraj2</b><br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%A5%87_5_Star_Gold-Java_%26_C%2B%2B-2EC866?style=flat-square&labelColor=0d1117" /><br/>
+      <img src="https://img.shields.io/badge/Problem_Solving-Verified-30363d?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 9: TECH ARSENAL (FUTURISTIC STACK)                               -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                         TECH ARSENAL                                    -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🛡️</span> /usr/bin/tech_arsenal --hardware-accel
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="12" cellspacing="8" width="100%">
-    <tr>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">⚡ CORE LANGUAGES</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">C++ (STL & Competitive) • Java • Python 3 • TypeScript • JavaScript</span>
-      </td>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">🌐 FRONTEND FRAMEWORKS</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">React 18/19 • Next.js App Router • Tailwind CSS • Responsive UI/UX</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">⚙️ BACKEND & APIS</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">Node.js • Express • RESTful Endpoints • WebSocket Protocols • Postman</span>
-      </td>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">💾 DATABASES & PERSISTENCE</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">PostgreSQL • MongoDB Atlas • Firebase Firestore • MySQL RDBMS</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">🤖 AI / MACHINE LEARNING</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">Deep Learning • Neural Nets • Scikit-Learn • OpenCV Computer Vision</span>
-      </td>
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h4 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">🛠️ DEVELOPER TOOLS & OS</h4>
-        <p align="center" style="margin: 8px 0;">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&perline=5&theme=dark" /></a>
-        </p>
-        <span style="color: #8b949e; font-size: 12px;">Git Version Control • GitHub CI/CD • Linux Kernel • Shell Scripting • VS Code</span>
-      </td>
-    </tr>
-  </table>
+### `>> /usr/bin/tech_arsenal --full-scan`
+
+<br/>
+
+<table border="0" cellpadding="12" cellspacing="6" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9A%A1_CORE_LANGUAGES-Execution_Layer-00FFCC?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js&perline=5&theme=dark" /></a><br/>
+      <sub><b>C++ STL &bull; Java &bull; Python 3 &bull; TypeScript &bull; JavaScript</b></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90_FRONTEND-Interface_Layer-00FFCC?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5&theme=dark" /></a><br/>
+      <sub><b>React &bull; Next.js App Router &bull; Tailwind CSS &bull; HTML5 &bull; CSS3</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_BACKEND_%26_APIS-Service_Layer-7C3AED?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=5&theme=dark" /></a><br/>
+      <sub><b>Node.js &bull; Express.js &bull; REST APIs &bull; WebSocket &bull; Postman</b></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%F0%9F%92%BE_DATABASES-Persistence_Layer-7C3AED?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql&perline=5&theme=dark" /></a><br/>
+      <sub><b>PostgreSQL &bull; MongoDB Atlas &bull; Firebase Firestore &bull; MySQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_%2F_ML-Intelligence_Layer-00E5FF?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=5&theme=dark" /></a><br/>
+      <sub><b>TensorFlow &bull; PyTorch &bull; Scikit-Learn &bull; OpenCV &bull; Vertex AI</b></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_DEVOPS_%26_TOOLS-Ops_Layer-00E5FF?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&perline=5&theme=dark" /></a><br/>
+      <sub><b>Git &bull; GitHub CI/CD &bull; Linux &bull; Bash Scripting &bull; VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 10 & 11: AI ENGINEERING & CLOUD ARCHITECTURE                      -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--               AI ENGINEERING + CLOUD INFRASTRUCTURE                     -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🔮</span> /sys/ai_and_cloud_matrix.config
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="14" cellspacing="8" width="100%">
-    <tr>
-      <!-- SECTION 10: AI ENGINEERING -->
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">
-          🤖 AI ENGINEERING & INTELLIGENT SYSTEMS
-        </h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Bridging mathematical foundations of Machine Learning with scalable production deployments. Focusing on deep representations, computer vision, and generative agents.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Machine_Learning-Scikit_Learn-00FFCC?style=flat-square&logo=scikitlearn&logoColor=0d1117&color=00FFCC" />
-          <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white&color=7C3AED" />
-          <img src="https://img.shields.io/badge/Neural_Nets-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&color=FF6F00" />
-          <img src="https://img.shields.io/badge/LLM_Prompting-Generative_AI-00E5FF?style=flat-square&logo=openai&logoColor=0d1117&color=00E5FF" />
-        </p>
-        <ul style="color: #8b949e; font-size: 12px; padding-left: 18px; line-height: 1.6; margin: 0;">
-          <li>End-to-end MLOps pipeline automation with Google Vertex AI</li>
-          <li>Convolutional neural networks & feature extraction in OpenCV</li>
-          <li>Prompt-engineered generative architectures & vector embeddings</li>
-        </ul>
-      </td>
+### `>> /sys/ai_cloud_matrix.config --verbose`
 
-      <!-- SECTION 11: CLOUD SECTION -->
-      <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <h3 style="color: #00FFCC; font-family: monospace; margin: 0 0 10px 0;">
-          ☁️ CLOUD PLATFORMS & SCALABLE SYSTEMS
-        </h3>
-        <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6;">
-          Architecting resilient, fault-tolerant infrastructure built for zero-downtime rollouts, continuous integration, and millisecond edge responses.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Edge_Deploy-Vercel-00FFCC?style=flat-square&logo=vercel&logoColor=0d1117&color=00FFCC" />
-          <img src="https://img.shields.io/badge/Cloud_Hosting-Netlify-00E5FF?style=flat-square&logo=netlify&logoColor=0d1117&color=00E5FF" />
-          <img src="https://img.shields.io/badge/Cloud_Backend-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=0d1117&color=FFA611" />
-          <img src="https://img.shields.io/badge/Infrastructure-AWS_Ready-FF9900?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900" />
-        </p>
-        <ul style="color: #8b949e; font-size: 12px; padding-left: 18px; line-height: 1.6; margin: 0;">
-          <li>Stateless microservices & serverless cloud functions</li>
-          <li>High-availability SQL / NoSQL database sharding and replication</li>
-          <li>Automated continuous delivery via GitHub Actions workflows</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<br/>
+
+<table border="0" cellpadding="14" cellspacing="8" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_%26_NEURAL_SYSTEMS-Intelligence_Core-7C3AED?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <p align="left">Bridging ML fundamentals with production-grade AI deployments. Specializing in deep neural architectures, computer vision pipelines, and LLM-integrated applications at scale.</p>
+      <img src="https://img.shields.io/badge/MLOps-Vertex_AI-00FFCC?style=flat-square&logo=googlecloud&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/DL-PyTorch-7C3AED?style=flat-square&logo=pytorch&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/CV-OpenCV-00E5FF?style=flat-square&logo=opencv&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Gen_AI-LLM_Engineering-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <ul align="left">
+        <li>End-to-end MLOps pipeline automation with Vertex AI</li>
+        <li>CNN + RNN architectures for vision &amp; sequence modeling</li>
+        <li>Embeddings, vector search &amp; semantic retrieval systems</li>
+        <li>Prompt engineering &amp; RAG pipeline construction</li>
+      </ul>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_%26_INFRASTRUCTURE-Elastic_Core-00FFCC?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <p align="left">Architecting resilient, edge-optimized cloud systems engineered for zero-downtime rollouts, automated CI/CD pipelines, and globally distributed endpoints.</p>
+      <img src="https://img.shields.io/badge/Deploy-Vercel_Edge-00FFCC?style=flat-square&logo=vercel&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Host-Netlify-00E5FF?style=flat-square&logo=netlify&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Backend-Firebase-FFA611?style=flat-square&logo=firebase&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Infra-AWS_Ready-FF9900?style=flat-square&logo=amazonaws&labelColor=0d1117" /><br/><br/>
+      <ul align="left">
+        <li>Stateless microservices &amp; serverless cloud functions</li>
+        <li>High-availability database sharding &amp; replication schemes</li>
+        <li>GitHub Actions automated delivery &amp; deployment pipelines</li>
+        <li>Edge caching &amp; CDN configuration for global performance</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 12: FEATURED PRODUCTS (FLAGSHIPS)                                 -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--             FEATURED PRODUCTS — FLAGSHIP LAUNCH CONSOLE                 -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🚀</span> /usr/local/products/ --show-flagships
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <!-- FLAGSHIP CENTERPIECE: ALGOLIB -->
-  <table align="center" border="0" cellpadding="16" cellspacing="0" width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #101c26 100%); border: 2px solid #00FFCC; border-radius: 14px; margin-bottom: 14px; box-shadow: 0 0 25px rgba(0, 255, 204, 0.15);">
-    <tr>
-      <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="left">
-              <span style="background-color: #00FFCC; color: #0d1117; font-weight: bold; padding: 4px 12px; border-radius: 4px; font-family: monospace; font-size: 11px;">👑 FLAGSHIP PRODUCT</span>
-              &nbsp;
-              <span style="background-color: #30363d; color: #00FFCC; padding: 4px 12px; border-radius: 4px; font-family: monospace; font-size: 11px;">● LIVE ECOSYSTEM</span>
-            </td>
-            <td align="right">
-              <a href="https://algolib.netlify.app" target="_blank">
-                <img src="https://img.shields.io/badge/LAUNCH_ALGOLIB-00FFCC?style=for-the-badge&logo=netlify&logoColor=0d1117&color=00FFCC" alt="Launch AlgoLib" />
-              </a>
-            </td>
-          </tr>
-        </table>
-        <h2 style="color: #ffffff; margin: 12px 0 6px 0; font-size: 24px;">
-          ⚡ AlgoLib v3.1 — <span style="color: #00FFCC;">Advanced Algorithmic Learning & Competitive Coding Ecosystem</span>
-        </h2>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
-          The flagship centerpiece designed to accelerate computer science learning and algorithmic mastery. Features an interactive <b>DSA Visualizer</b> (Pathfinding, Sorting algorithms, Tree traversals), an embedded <b>Online Multi-Language Compiler</b>, interactive <b>Quizzes & Contests</b>, and a sandbox <b>Coding Playground</b>.
-        </p>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-              <img src="https://img.shields.io/badge/DSA_Visualizer-00FFCC?style=flat-square&logo=codewars&logoColor=0d1117&color=00FFCC" />
-              <img src="https://img.shields.io/badge/Online_Compiler-7C3AED?style=flat-square&logo=cplusplus&logoColor=white&color=7C3AED" />
-              <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+### `>> ls -la /usr/local/projects/ --flagship-mode`
 
-  <!-- PRODUCT GRID: FORMSFORGE, XYNC, VOTER AUTH -->
-  <table align="center" border="0" cellpadding="14" cellspacing="8" width="100%">
-    <tr>
-      <!-- FORMSFORGE -->
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <span style="background-color: #00E5FF; color: #0d1117; font-weight: bold; padding: 2px 8px; border-radius: 4px; font-family: monospace; font-size: 10px;">AI SAAS</span>
-        <h3 style="color: #00FFCC; margin: 10px 0 6px 0;">FormsForge</h3>
-        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
-          Ultimate AI form builder enabling users to generate fully validated, dynamic, responsive forms instantly from plain-text natural language prompts.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI_Engine-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-        </p>
-        <a href="https://formsforge-coral.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/CONNECT-00FFCC?style=flat-square&logo=vercel&logoColor=0d1117&color=00FFCC" alt="FormsForge" />
-        </a>
-      </td>
+<br/>
 
-      <!-- XYNC -->
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <span style="background-color: #7C3AED; color: #ffffff; font-weight: bold; padding: 2px 8px; border-radius: 4px; font-family: monospace; font-size: 10px;">IN DEVELOPMENT</span>
-        <h3 style="color: #00FFCC; margin: 10px 0 6px 0;">Xync Core</h3>
-        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
-          Professional project management ecosystem engineered for modern dev teams to orchestrate web deliverables, college projects, sprints, and task graphs.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        </p>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-30363d?style=flat-square&color=30363d" alt="Status" />
-      </td>
+<!-- ===== ALGOLIB FLAGSHIP ===== -->
 
-      <!-- VIRTUAL VOTER AUTH -->
-      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-        <span style="background-color: #30363d; color: #00FFCC; font-weight: bold; padding: 2px 8px; border-radius: 4px; font-family: monospace; font-size: 10px;">GOV-TECH SEC</span>
-        <h3 style="color: #00FFCC; margin: 10px 0 6px 0;">Virtual Voter Auth</h3>
-        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
-          Desktop security application enabling secure biometric credential ingestion, encrypted token validation, and voter authentication logs.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Biometrics-00FFCC?style=flat-square&logo=auth0&logoColor=0d1117&color=00FFCC" />
-        </p>
-        <a href="https://github.com/PrateekSingh2/BLO" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_REPO-30363d?style=flat-square&logo=github&logoColor=white&color=30363d" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<a href="https://algolib.netlify.app" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0f,50:002a1a,100:003820&height=100&text=%E2%9A%A1%20AlgoLib%20v3.1%20%E2%80%94%20Algorithm%20Learning%20%26%20Competitive%20Coding%20Ecosystem&fontSize=22&fontColor=00FFCC&desc=%F0%9F%91%91%20FLAGSHIP%20PRODUCT%20%7C%20%E2%97%8F%20LIVE%20ECOSYSTEM%20%7C%20%F0%9F%9A%80%20PRODUCTION%20DEPLOYED&descSize=13&descColor=8b949e&fontAlignY=40&descAlignY=68" width="100%" />
+</a>
+
+<br/><br/>
+
+**The all-in-one algorithmic powerhouse** designed to accelerate CS education and technical interview mastery. Features an interactive **DSA Visualizer** (Pathfinding, Sorting, Binary Trees), embedded **Online Multi-Language Compiler**, live **Contest Environments**, and a gamified **Algorithmic Quiz Engine**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DSA_Visualizer-LIVE-00FFCC?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Compiler-Multi_Language-7C3AED?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&labelColor=0d1117" />
+
+<br/><br/>
+
+<a href="https://algolib.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_LAUNCH_ALGOLIB-LIVE_PLATFORM-00FFCC?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117&color=00FFCC" />
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ===== PROJECT GRID — 3 COLUMNS ===== -->
+
+<table border="0" cellpadding="16" cellspacing="10" width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/FormsForge-AI_SaaS_Platform-00E5FF?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <b>🤖 Prompt-Driven Form Builder</b><br/><br/>
+      <p align="left">Generate fully validated, dynamic, shareable forms instantly from natural language prompts. AI-powered schema compilation with real-time preview and instant endpoint generation.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/AI_Engine-Generative-7C3AED?style=flat-square&labelColor=0d1117" />
+      <br/><br/>
+      <a href="https://formsforge-coral.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/CONNECT-LIVE-00FFCC?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=0d1117&color=00FFCC" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Xync_Core-In_Development-7C3AED?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <b>⚡ Developer Project OS</b><br/><br/>
+      <p align="left">High-performance project management ecosystem for modern dev teams. Orchestrate web deliverables, college sprints, async task graphs, and real-time team coordination with precision.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&labelColor=0d1117" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE_PIPELINE-7C3AED?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Virtual_Voter_Auth-Gov_Tech_Sec-30363d?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+      <b>🔐 Biometric Security Suite</b><br/><br/>
+      <p align="left">Desktop security platform for biometric credential ingestion, encrypted token validation, and tamper-resistant voter identity authentication with full audit log integrity.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Biometrics-Secure-00FFCC?style=flat-square&labelColor=0d1117" />
+      <br/><br/>
+      <a href="https://github.com/PrateekSingh2/BLO" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE-INSPECT-30363d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 13: CERTIFICATIONS & CREDENTIALS                                 -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                         CERTIFICATIONS                                  -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🏆</span> /etc/credentials/verified_certs.asc
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="12" cellspacing="8" width="100%">
-    <tr>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
-        <span style="color: #00FFCC; font-weight: bold; font-family: monospace;">[VERIFIED // 01]</span>
-        <h4 style="color: #ffffff; margin: 6px 0 4px 0;">Machine Learning Operations (MLOps) with Vertex AI</h4>
-        <span style="color: #8b949e; font-size: 13px;">Google Cloud & Google Arcade • Model Serving, CI/CD & Drift Monitoring</span>
-      </td>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
-        <span style="color: #00FFCC; font-weight: bold; font-family: monospace;">[VERIFIED // 02]</span>
-        <h4 style="color: #ffffff; margin: 6px 0 4px 0;">Introduction to Machine Learning</h4>
-        <span style="color: #8b949e; font-size: 13px;">Microsoft Learn • Core Algorithms, Classification, Regression & Neural Models</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
-        <span style="color: #00FFCC; font-weight: bold; font-family: monospace;">[VERIFIED // 03]</span>
-        <h4 style="color: #ffffff; margin: 6px 0 4px 0;">JAVA Problem Solving Basics</h4>
-        <span style="color: #8b949e; font-size: 13px;">HackerRank • Data Structures, Collections, Algorithmic Analysis & Complexity</span>
-      </td>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
-        <span style="color: #00FFCC; font-weight: bold; font-family: monospace;">[VERIFIED // 04]</span>
-        <h4 style="color: #ffffff; margin: 6px 0 4px 0;">Artificial Intelligence for Beginners</h4>
-        <span style="color: #8b949e; font-size: 13px;">HP LIFE • Foundations of Intelligent Agents, Neural Systems & Ethics</span>
-      </td>
-    </tr>
-  </table>
+### `>> cat /etc/credentials/verified_certs.asc`
+
+<br/>
+
+<table border="0" cellpadding="14" cellspacing="8" width="100%">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9C%85_VERIFIED_01-Google_Arcade_%26_Cloud-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <b>Machine Learning Operations (MLOps) with Vertex AI</b><br/>
+      <sub>Model Serving &bull; CI/CD Automation &bull; Drift Monitoring &bull; Pipeline Orchestration</sub>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9C%85_VERIFIED_02-Microsoft_Learn-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <b>Introduction to Machine Learning</b><br/>
+      <sub>Classification &bull; Regression &bull; Clustering &bull; Neural Network Fundamentals</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9C%85_VERIFIED_03-HackerRank-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <b>JAVA Problem Solving Basics</b><br/>
+      <sub>Data Structures &bull; Algorithmic Complexity &bull; Recursion &bull; OOP Design</sub>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%9C%85_VERIFIED_04-HP_LIFE-00FFCC?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <b>Artificial Intelligence for Beginners</b><br/>
+      <sub>Intelligent Agents &bull; Neural Systems &bull; Ethics in AI &bull; Real-world Applications</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 14: OPEN SOURCE PHILOSOPHY                                       -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                    OPEN SOURCE PHILOSOPHY                               -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🌐</span> /etc/manifesto/open_source.txt
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <table align="center" border="0" cellpadding="16" cellspacing="0" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-    <tr>
-      <td>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.7; margin: 0;">
-          I believe software is an open collective dialogue. Everything I architect — from <b>AlgoLib</b>'s educational sandboxes to experimental deep learning models — is fueled by a commitment to <b>build in public</b>, share blueprints freely, maintain unyielding consistency, and give back to the global developer community.
-        </p>
-        <br>
-        <p style="margin: 0;">
-          <img src="https://img.shields.io/badge/PHILOSOPHY-BUILD_IN_PUBLIC-00FFCC?style=flat-square&color=00FFCC&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/CULTURE-HIGH_PERFORMANCE_CODE-7C3AED?style=flat-square&color=7C3AED&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/MINDSET-FIRST_PRINCIPLES-00E5FF?style=flat-square&color=00E5FF&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/CONSISTENCY-EVERY_SINGLE_DAY-00FFCC?style=flat-square&color=00FFCC&labelColor=0d1117" />
-        </p>
-      </td>
-    </tr>
-  </table>
+### `>> /etc/manifesto/open_source.txt --broadcast`
+
+<br/>
+
+> 🌐 **I believe software is an open collective dialogue.**
+> Everything I architect — from **AlgoLib's** educational sandboxes to experimental deep-learning models — is fueled by a singular commitment: **build in public**, share blueprints freely, maintain relentless consistency, and give back to the global developer community.
+>
+> 💡 **Open source isn't just a license — it's a philosophy of radical transparency and collective intelligence.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHILOSOPHY-BUILD_IN_PUBLIC-00FFCC?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CULTURE-HIGH_PERFORMANCE_CODE-7C3AED?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MINDSET-FIRST_PRINCIPLES-00E5FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/HABIT-EVERY_SINGLE_DAY-00FFCC?style=flat-square&labelColor=0d1117" />
+
 </div>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="2" />
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 15 & 16: CODING ACTIVITY & SNAKE ANIMATION                        -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                     CONTRIBUTION SNAKE                                  -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="left">
-        <h2 style="color: #00FFCC; font-family: monospace; font-size: 22px; margin: 0 0 10px 0;">
-          <span style="color: #7C3AED;">🐍</span> ./render_contribution_snake.sh --realtime
-        </h2>
-      </td>
-    </tr>
-  </table>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg" width="100%" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;" />
-  </picture>
+### `>> ./render_contribution_snake.sh --dark --realtime`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/PrateekSingh2/PrateekSingh2/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
-<br>
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 17: VISITOR ANALYTICS                                             -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                      VISITOR ANALYTICS                                  -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=PrateekSingh2&label=SYS.TELEMETRY.VISITS&color=00FFCC&labelColor=0d1117&style=for-the-badge" alt="Profile Views" />
-        <a href="https://github.com/PrateekSingh2?tab=followers">
-          <img src="https://img.shields.io/github/followers/PrateekSingh2?label=NET.FOLLOWERS&style=for-the-badge&logo=github&color=00FFCC&labelColor=0d1117" alt="Followers" />
-        </a>
-        <a href="https://github.com/PrateekSingh2">
-          <img src="https://img.shields.io/github/stars/PrateekSingh2?label=TOTAL.STARS&style=for-the-badge&logo=apachespark&color=7C3AED&labelColor=0d1117" alt="Stars" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://komarev.com/ghpvc/?username=PrateekSingh2&label=SYS.VISITS&color=00FFCC&labelColor=0d1117&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/PrateekSingh2?tab=followers">
+  <img src="https://img.shields.io/github/followers/PrateekSingh2?label=NET.FOLLOWERS&style=for-the-badge&logo=github&color=00FFCC&labelColor=0d1117" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/PrateekSingh2">
+  <img src="https://img.shields.io/github/stars/PrateekSingh2?label=TOTAL.STARS&style=for-the-badge&logo=apachespark&color=7C3AED&labelColor=0d1117" alt="Stars" />
+</a>
+
 </div>
 
-<br>
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 18: CINEMATIC DEVELOPER QUOTE                                     -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--                  CINEMATIC DEVELOPER QUOTE                              -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <table border="0" cellpadding="18" cellspacing="0" width="85%" style="background-color: #0d1117; border-left: 4px solid #00FFCC; border-right: 4px solid #7C3AED; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 204, 0.08);">
-    <tr>
-      <td align="center">
-        <p style="color: #ffffff; font-family: 'Fira Code', monospace; font-size: 16px; margin: 0; font-style: italic; letter-spacing: 0.5px;">
-          "Code is the closest thing we have to magic: you conceive an abstraction inside your mind, and silicon bends to compute reality."
-        </p>
-        <br>
-        <span style="color: #00FFCC; font-family: monospace; font-size: 13px;">⚡ Prateek Singh // dev-os terminal</span>
-      </td>
-    </tr>
-  </table>
+
+---
+
+### *" Code is the closest thing we have to magic — you conceive an abstraction inside your mind, and silicon bends to compute reality. "*
+
+**⚡ &nbsp; Prateek Singh &nbsp;|&nbsp; dev-os terminal &nbsp;|&nbsp; prateeksinghrajawat2006@gmail.com**
+
+---
+
 </div>
 
-<br>
+<br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION 19: EPIC FOOTER & TERMINATION SEQUENCE                            -->
-<!-- ========================================================================= -->
+<!-- ======================================================================= -->
+<!--               EPIC FOOTER — TERMINATION SEQUENCE                        -->
+<!-- ======================================================================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" width="100%" height="4" />
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&multiline=true&width=720&height=110&lines=%5BOK%5D+Connection+Established+%E2%80%94+Welcome+to+My+Signal.;%5BOK%5D+Saving+Session+to+Neural+Matrix...;%5BOK%5D+Mission+Continues%3A+Build.+Break.+Learn.+Repeat.;%5BOK%5D+EOF+_+System+entering+low-power+standby." alt="Termination Sequence" />
 
-  <!-- TERMINAL SHUTDOWN SEQUENCE -->
-  <pre style="background-color:#0d1117; color:#c9d1d9; border: 1px solid #30363d; border-radius: 8px; font-family: 'Fira Code', monospace; text-align: left; padding: 14px 20px; max-width: 720px; font-size: 13px; line-height: 1.5;">
-<span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>  <span style="color: #00FFCC;">prateek@dev-os</span>:~$ ./shutdown_sequence.sh
-<span style="color: #00FFCC;">[OK]</span> Connection Terminated...
-<span style="color: #00FFCC;">[OK]</span> Saving Session to Neural Matrix...
-<span style="color: #7C3AED;">[OK]</span> Mission Continues: Build. Break. Learn. Repeat.
-<span style="color: #8b949e;">[OK]</span> EOF. System entered low-power standby mode.
-  </pre>
+<br/><br/>
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,30:00c9a7,60:003833,100:0D1117&height=160&section=footer&text=Engineered%20with%20%E2%9A%A1%20by%20Prateek%20Singh&fontSize=22&fontColor=0d1117&fontAlignY=45&desc=github.com%2FPrateekSingh2%20%7C%20AlgoLib%20%7C%20FormsForge%20%7C%20Xync%20Core&descSize=13&descColor=1a2a1a&descAlignY=72" width="100%" alt="Footer Wave" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&color=00FFCC&center=true&vCenter=true&width=650&lines=Connection_Terminated.;Saving_Session...;Mission_Continues...;EOF_" alt="Closing Typing SVG" />
-
-  <br><br>
-
-  <p style="color: #8b949e; font-family: monospace; font-size: 12px; margin: 0;">
-    Engineered with ⚡ <span style="color: #00FFCC;">Cyberpunk Precision</span> & <span style="color: #7C3AED;">High-Scale Architecture</span> • © 2026 <b>Prateek Singh</b>
-  </p>
 </div>
