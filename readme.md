@@ -12,7 +12,7 @@
 
 <a href="https://github.com/PrateekSingh2"><img src="https://img.shields.io/badge/GitHub-PrateekSingh2-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="https://linkedin.com/in/rajawatprateeksingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="https://prateeksingh2.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://rajawatprateek.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="mailto:prateeksinghrajawat2006@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <img src="https://img.shields.io/badge/📍-Gwalior%2C%20India-F59E0B?style=flat-square&labelColor=0d1117" />&nbsp;
 <img src="https://komarev.com/ghpvc/?username=PrateekSingh2&label=Profile+Views&color=A78BFA&labelColor=0d1117&style=flat-square" />
