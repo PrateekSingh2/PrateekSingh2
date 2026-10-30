@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="3D contribution graph placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="url(#g)"/>
+  <text x="640" y="150" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, sans-serif" font-size="28">3D contribution graph</text>
+  <text x="640" y="190" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="16">Run Actions ’ Generate 3D Contribution Graph</text>
+</svg>

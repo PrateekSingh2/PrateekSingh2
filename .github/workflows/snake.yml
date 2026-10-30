@@ -1,33 +1,40 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+    paths:
+      - ".github/workflows/snake.yml"
 
-# This explicit permission block fixes the exit code 128 error
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      # Updated to v4 to fix the Node.js warning
-      - uses: actions/checkout@v4 
-      
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        # Updated to v4 to fix the Node.js warning
-        uses: crazy-max/ghaction-github-pages@v4 
+            dist/github-contribution-grid-snake.gif?color_snake=a78bfa&color_dots=#0d1117,#4c1d95,#6d28d9,#7c3aed,#c4b5fd
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          keep_files: false
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+          commit_message: "chore: refresh contribution snake"

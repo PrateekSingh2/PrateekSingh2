@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="GitHub metrics placeholder">
+  <rect width="480" height="200" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="478" height="198" rx="15" fill="none" stroke="#4c1d95"/>
+  <text x="240" y="90" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, sans-serif" font-size="22">GitHub Metrics</text>
+  <text x="240" y="122" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="14">Run Actions ’ Generate GitHub Metrics</text>
+</svg>
